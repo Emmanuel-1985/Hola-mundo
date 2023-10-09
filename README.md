@@ -2,10 +2,10 @@
 
 mi primer repositorio en Github
 
-me gusta :coffe 
+me gusta : coffe y tambien soy barista
 
-me encanta el futbol
+me encanta el futbol 
 
-tambien la musci
+tambien la musica
 
 me gusta la  programacion
